@@ -1,6 +1,3 @@
-# CPSC-479-openMP
-About Homework Assignment 4 for CPSC 479 Spring 2022 taught by professor Doina Bein. Focusing on openMP and parallel constructs.
-
 Exercise 1. Write an openMP program to initialize an array array of size 32 to all zeros in parallel using 8 threads, using one parallel construct and/or parallel for.
 
 Exercise 2. In addition to what Problem 1 asks, create another parallel construct that adds i to array[i].
